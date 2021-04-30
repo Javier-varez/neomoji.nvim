@@ -3,7 +3,7 @@
 
 Did you ever want to fuzzy find emoji on NeoVim? Well, I did and that's why I created Neomoji. Neomoji is a NeoVim pluggin that leverages [Telescope](https://github.com/nvim-telescope/telescope.nvim) to provide a fuzzy finder for emojis.
 
-## Getting started 
+## Getting started
 
 Get this pluggin with you plugin manager of choice. Beware, you will need [NeoVim nightly (V0.5)](https://github.com/neovim/neovim/releases/tag/nightly) and [Telescope](https://github.com/nvim-telescope/telescope.nvim) (along with its dependencies).
 
