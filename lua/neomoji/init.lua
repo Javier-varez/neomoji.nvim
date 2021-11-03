@@ -14,9 +14,9 @@ M.find = function()
             results = emojis,
             entry_maker = function(entry)
                 return {
-                    value = { entry.symbol },
-                    ordinal = entry.keywords[1],
-                    display = entry.symbol
+                    value = { entry.char },
+                    ordinal = entry.name,
+                    display = entry.char
                 }
             end,
         },
